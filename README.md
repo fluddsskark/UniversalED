@@ -4,3 +4,4 @@ Features:
 - Will be able to port your UnrealEd 1.5 map to an UnrealED 2-based game, by using MyLevel for the assets.
 - Search bar for finding individual textures ingame
 - Model importing is also given in-house and you can easily export other models from other Unreal Engine games to another Unreal Engine game.
+- Fix the UnrealScript Editor included with all Unreal Engine games, and use a better text editor
