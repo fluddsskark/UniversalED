@@ -1,0 +1,59 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Editor - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\AARONR~1\LOCALS~1\Temp\RSP46.tmp" with contents
+[
+..\..\Core\Lib\Core.lib ..\..\Engine\Lib\Engine.lib user32.lib oleaut32.lib advapi32.lib shell32.lib gdi32.lib /nologo /base:"0x10200000" /subsystem:windows /dll /incremental:yes /pdb:"..\Lib/Editor.pdb" /machine:I386 /out:"..\..\System\Editor.dll" /implib:"..\Lib/Editor.lib" 
+.\Release\CoolBsp.obj
+.\Release\EdHook.obj
+.\Release\Editor.obj
+.\Release\TTFontImport.obj
+.\Release\UBatchExportCommandlet.obj
+.\Release\UBrushBuilder.obj
+.\Release\UConformCommandlet.obj
+.\Release\UMakeCommandlet.obj
+.\Release\UMasterCommandlet.obj
+.\Release\UMergeDXTCommandlet.obj
+.\Release\UnBsp.obj
+.\Release\UnEdAct.obj
+.\Release\UnEdCam.obj
+.\Release\UnEdClick.obj
+.\Release\UnEdCnst.obj
+.\Release\UnEdCsg.obj
+.\Release\UnEdExp.obj
+.\Release\UnEdFact.obj
+.\Release\UnEditor.obj
+.\Release\UnEdRend.obj
+.\Release\UnEdSrv.obj
+.\Release\UnEdTran.obj
+.\Release\UnMeshEd.obj
+.\Release\UnMeshLP.obj
+.\Release\UnParams.obj
+.\Release\UnScrCom.obj
+.\Release\UnShadow.obj
+.\Release\UnSyntax.obj
+.\Release\UnTopics.obj
+.\Release\UnVisi.obj
+.\Release\UPS2ConvertCommandlet.obj
+.\Release\UWaveMeshBuilder.obj
+\Unreal2\Engine\Lib\Engine.lib
+\Unreal2\Core\Lib\Core.lib
+\Unreal2\Window\Lib\Window.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\AARONR~1\LOCALS~1\Temp\RSP46.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library ..\Lib/Editor.lib and object ..\Lib/Editor.exp
+
+
+
+<h3>Results</h3>
+Editor.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
